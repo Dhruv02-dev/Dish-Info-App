@@ -15,10 +15,10 @@ A simple Android app built using **Kotlin + Jetpack Compose** that fetches and d
 
 ## 📱 Screenshots
 
-| Feature            | Preview                                                      |
-|--------------------|--------------------------------------------------------------|
-| **Main Interface** | <img src="docs/screenshots/main-screen.jpeg" width="300"/>   |
-| **Add Wish**       | <img src="docs/screenshots/detail-screen.jpeg" width="300"/> |
+| Feature           | Preview                                                      |
+|-------------------|--------------------------------------------------------------|
+| **Main Screen**   | <img src="docs/screenshots/main-screen.jpeg" width="300"/>   |
+| **Detail Screen** | <img src="docs/screenshots/detail-screen.jpeg" width="300"/> |
 
 
 ## 🛠️ Tech Stack
